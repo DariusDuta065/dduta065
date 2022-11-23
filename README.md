@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @dduta065
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dduta065/dduta065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Darius
+- 👀 I’m interested in cloud engineering on AWS, back-end or full-stack roles.
+- 🌱 I’m currently learning Golang, German, and a bit more about psychology, bit by bit.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dduta065/).
+- 💻 In my free time, I work on side projects with a strong emphasis on automation and making my life easier.
+- 📖 I also enjoy writing about tech and documenting things. You can see some of my projects on my [website](https://dariusduta.dev).
